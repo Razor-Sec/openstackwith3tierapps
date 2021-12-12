@@ -1,6 +1,6 @@
 # Openstack Integration ceph and application 3 tier (Web app, Database, and object store)
 ## Topology Openstack : 
-![Test]("Pasted image 20210727164010.png")
+![Test](https://raw.githubusercontent.com/Razor-Sec/openstackwith3tierapps/main/Pasted%20image%2020210727164010.png)
 
 ## Topology Ceph : 
 ![[./Pasted image 20210727164035.png]]
