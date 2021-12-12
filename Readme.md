@@ -1,12 +1,12 @@
 # Openstack Integration ceph and application 3 tier (Web app, Database, and object store)
 ## Topology Openstack : 
-![Test](https://raw.githubusercontent.com/Razor-Sec/openstackwith3tierapps/main/Pasted%20image%2020210727164010.png)
+![](https://raw.githubusercontent.com/Razor-Sec/openstackwith3tierapps/main/Pasted%20image%2020210727164010.png)
 
 ## Topology Ceph : 
-![[./Pasted image 20210727164035.png]]
+![](https://github.com/Razor-Sec/openstackwith3tierapps/blob/main/Pasted%20image%2020210727164035.png?raw=true)
 
 ## Topology Subnet : 
-![[Pasted image 20210727164213.png]]
+![[https://github.com/Razor-Sec/openstackwith3tierapps/blob/main/Pasted%20image%2020210727164213.png?raw=true]]
 
 ## Pre-requirement
 -   9 Node (3 controller+network, 3 compute , 3 Ceph)
