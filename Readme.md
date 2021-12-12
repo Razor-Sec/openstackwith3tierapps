@@ -1,6 +1,6 @@
 # Openstack Integration ceph and application 3 tier (Web app, Database, and object store)
 ## Topology Openstack : 
-![[Pasted image 20210727164010.png]]
+[![Pasted image 20210727164010.png]]
 
 ## Topology Ceph : 
 ![[Pasted image 20210727164035.png]]
