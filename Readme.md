@@ -3,7 +3,7 @@
 ![Test](./Pasted image 20210727164010.png)
 
 ## Topology Ceph : 
-![[Pasted image 20210727164035.png]]
+![[./Pasted image 20210727164035.png]]
 
 ## Topology Subnet : 
 ![[Pasted image 20210727164213.png]]
