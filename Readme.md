@@ -6,7 +6,7 @@
 ![](https://github.com/Razor-Sec/openstackwith3tierapps/blob/main/Pasted%20image%2020210727164035.png?raw=true)
 
 ## Topology Subnet : 
-![[https://github.com/Razor-Sec/openstackwith3tierapps/blob/main/Pasted%20image%2020210727164213.png?raw=true]]
+![](https://github.com/Razor-Sec/openstackwith3tierapps/blob/main/Pasted%20image%2020210727164213.png?raw=true)
 
 ## Pre-requirement
 -   9 Node (3 controller+network, 3 compute , 3 Ceph)
@@ -433,12 +433,11 @@ $ cp ceph_keyring/ceph.client.cinder-backup.keyring /etc/kolla/config/cinder/cin
 
 ### Topology apps
 
-![[Pasted image 20210819210945.png]]
+![](https://github.com/Razor-Sec/openstackwith3tierapps/blob/main/Pasted%20image%2020210819210945.png?raw=true)
 
 ### Requirement
 
-![[Pasted image 20210819211337.png]]
-
+![](https://github.com/Razor-Sec/openstackwith3tierapps/blob/main/Pasted%20image%2020210819211337.png?raw=true)
 ## Deployment webapps
 ### List service
 - Nginx 
@@ -953,7 +952,7 @@ $ mysql -u root -p -e "show status like 'wsrep_cluster_size'"
 $ mysql -u root -p
 MariaDB [(none)]> create database galera_test;
 ```
-![[Pasted image 20210819231112.png]]
+![](https://github.com/Razor-Sec/openstackwith3tierapps/blob/main/Pasted%20image%2020210819231112.png?raw=true)
 
 ### Configuration MariaDB Slave Replikasi
 ```bash
@@ -1062,7 +1061,7 @@ MariaDB [(none)]> show slave status \G
 ```
 ### Test replication
 
-![[Pasted image 20210819233646.png]]
+![](https://github.com/Razor-Sec/openstackwith3tierapps/blob/main/Pasted%20image%2020210819233646.png?raw=true)
 
 ## Install and configuration Keepalived HAproxy High Avaibility in Openstack
 
